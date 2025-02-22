@@ -7,7 +7,7 @@ if (Test-Path $regPath) {
     $regValues = Get-ItemProperty -Path $regPath
 
     # Definim calea fișierului CSV de export
-    $csvPath = "$env:USERPROFILE\Desktop\CompatibilityAssistant_SIGN_MEDIA_Files.csv"
+    $csvPath = "$env:USERPROFILE\Documents\datapcheck\CompatibilityAssistant_SIGN_MEDIA_Files.csv"
 
     # Creăm un array pentru a stoca numele fișierelor care conțin "SIGN.MEDIA="
     $fileList = @()

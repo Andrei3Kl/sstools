@@ -1,31 +1,3 @@
-﻿<#
-.SYNOPSIS
-   Get information about a Windows 10 system to perform a DFIR analysis.
-.DESCRIPTION
-   On systems with a restricted script execution policy, run: PowerShell.exe -ExecutionPolicy UnRestricted -File .\dfircollect.ps1
-
-   This script needs at lesat PowerShell 2.0 (Windows 10)
-.PARAMETER EvidenceId
-   A string identifying the evidence. The output directory and zip file will have this name. Default: "evidence"
-.PARAMETER ExportRegistry
-   Export HKEY_LOCAL_MACHINE and HKEY_CURRENT_USER from the registry.
-.PARAMETER ExportMFT
-   Export the MFT of all partitions. RawCopy.exe must be present alongside this script.
-.PARAMETER CollectLogs
-   Collect logs.
-.PARAMETER Complete
-   Get all evidence from all sections.
-.EXAMPLE
-   ./dfircollect.ps1 -EvidenceId 12345
-.EXAMPLE
-   ./dfircollect.ps1 -EvidenceId 12345 -Complete
-.NOTES
-    Under the GPL license.
-
-   (c) 2019, Juan Vera (juanvvc@gmail.com)
-#>
-
-# Configuration parameters from the command line
 param(
     [string]$EvidenceId="evidence",
     [switch]$ExportRegistry,

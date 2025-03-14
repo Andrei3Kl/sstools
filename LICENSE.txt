@@ -1,0 +1,47 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement ("Agreement") is made and entered into as of 14.03.2025, by and between:
+
+Licensor: SSTOOLS ROMANIA, with a principal place of business at Aleea Curcubeului 15, BOTOSANI,BOTOSANI.
+
+Licensee: Andreo, residing at -.
+
+1. GRANT OF LICENSE
+
+Licensor hereby grants Licensee a non-exclusive/non-transferable license to install and use the software SSTOOL ("Software") for personal/commercial use, subject to the terms of this Agreement. Licensee acknowledges that this license does not grant any rights to access, modify, or distribute the source code of the Software.
+
+2. RESTRICTIONS
+
+Licensee shall not:
+
+Modify, reverse engineer, decompile, or disassemble the Software.
+
+Distribute, sublicense, lease, sell, or otherwise transfer the Software or any copies thereof.
+
+Share, disclose, or attempt to access the source code of the Software.
+
+Use the Software for any purpose other than as explicitly permitted by the Licensor.
+
+Remove or alter any copyright, trademark, or other proprietary notices contained in the Software.
+
+3. OWNERSHIP
+
+Licensor retains all ownership rights to the Software, including but not limited to intellectual property rights. Licensee acknowledges that no rights are granted to the source code of the Software.
+
+4. TERM AND TERMINATION
+
+This Agreement is effective as of the installation of the Software and shall remain in effect until terminated. Licensor may terminate this Agreement immediately if Licensee breaches any of its terms. Upon termination, Licensee must cease all use of the Software and destroy all copies in its possession.
+
+5. WARRANTY DISCLAIMER
+
+The Software is provided "as is," without any warranties, express or implied. Licensor is not responsible for any damages resulting from its use.
+
+6. LIMITATION OF LIABILITY
+
+Under no circumstances shall Licensor be liable for any indirect, incidental, or consequential damages arising from the use of the Software.
+
+7. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements or understandings.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.

@@ -3,7 +3,7 @@ $prefetchPath = "$env:SystemRoot\Prefetch"
 $outputCSV = "$env:USERPROFILE\Documents\datapcheck\Prefetch_Report.csv"
 
 # Lista de fișiere pe care vrei să le cauți
-$searchFiles = @("loader.exe", "launcher.exe", "example.exe")  # Adaugă fișiere aici
+$searchFiles = @("loader.pf", "launcher.pf", "hwid.pf", "loader.exe", "hwid.pf", "loader", "launcher", "public", "lastest")  # Adaugă fișiere aici
 
 # Verifică dacă folderul Prefetch există
 if (Test-Path $prefetchPath) {

@@ -1,6 +1,6 @@
 # Setează locația Prefetch și fișierul de output
 $prefetchPath = "$env:SystemRoot\Prefetch"
-$outputCSV = "$env:USERPROFILE\Desktop\Prefetch_Report.csv"
+$outputCSV = "$env:USERPROFILE\Documents\datapcheck\Prefetch_Report.csv"
 
 # Lista de fișiere pe care vrei să le cauți
 $searchFiles = @("loader.exe", "launcher.exe", "example.exe")  # Adaugă fișiere aici

@@ -1,4 +1,4 @@
-﻿$ErrorActionPreference = "SilentlyContinue"
+$ErrorActionPreference = "SilentlyContinue"
 
 function Get-Signature {
 
@@ -45,7 +45,7 @@ Write-Host -ForegroundColor Red "   ██║  ██║██╔══╝     �
 Write-Host -ForegroundColor Red "   ██████╔╝███████╗   ██║   ███████╗╚██████╗   ██║██╗██║  ██║╚██████╗";
 Write-Host -ForegroundColor Red "   ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝ ╚═════╝   ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝";
 Write-Host "";
-Write-Host -ForegroundColor Blue "  :) " -NoNewLine
+Write-Host -ForegroundColor Blue "  lol - " -NoNewLine
 Write-Host -ForegroundColor Red "discord.gg/detectac";
 Write-Host "";
 
